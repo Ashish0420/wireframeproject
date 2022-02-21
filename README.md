@@ -12,9 +12,11 @@ Write your design steps here
 Write your design steps here
 
 ## OUTPUT:
-![](ash.png)
-![](ash1.png)
-![](ash2.png)
+![git log](ash.jpg)
+
+![git log](ash1.jpg)
+
+![git log](ash2.jpg)
 
 
 ## Result:
